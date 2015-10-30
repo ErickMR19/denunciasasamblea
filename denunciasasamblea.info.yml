@@ -1,0 +1,17 @@
+name: Gestion de denuncias
+type: theme
+description: Tema creado para el manejo del modulo de gestion de denuncias
+package: Other
+core: 8.x
+
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  content: 'Contenido Principal'
+  second_content: 'Contenido Secundario'
+  main_sidebar: 'Sidebar Principal'
+  second_sidebar: 'Sidebar Secundaria'
+  main_footer_left: 'Main Footer Left'
+  main_footer_right: 'Main Footer Right'
+  lower_footer_left: 'Lower Footer Left'
+  lower_footer_right: 'Lower Footer Right'

@@ -1,0 +1,16 @@
+den-fuentes-google:
+  version: 1.x
+  css:
+    theme:
+      http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700,800 : { type : external }
+      http://fonts.googleapis.com/css?family=Great+Vibes : { type : external }
+den-bootstrap:
+  version: 3.3.5
+  css:
+    theme:
+      https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css : { type : external }
+den-personalizacion:
+  version: 0.x
+  css:
+    theme:
+      css/style.css : {}
