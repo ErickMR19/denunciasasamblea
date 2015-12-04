@@ -12,6 +12,7 @@ regions:
   main_sidebar: 'Sidebar Principal'
   second_sidebar: 'Sidebar Secundaria'
   main_footer_left: 'Main Footer Left'
+  main_footer_center: 'Main Footer Center'
   main_footer_right: 'Main Footer Right'
   lower_footer_left: 'Lower Footer Left'
   lower_footer_right: 'Lower Footer Right'
